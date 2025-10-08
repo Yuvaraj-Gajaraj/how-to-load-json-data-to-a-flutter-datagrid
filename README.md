@@ -1,18 +1,39 @@
-# How to load JSON data to a Flutter DataGrid
-A quick-start example to help you add the Syncfusion Flutter DataGrid to a Flutter app and load JSON data to it. You will learn how to fetch the JSON data from an online source and convert it to a list collection. You will also learn how to create the rows using the DataGridSource class using the list collection, and then bind the rows to the DataGrid.
+# Flutter DataGrid Load Data from JSON API
 
-Watch the video: Coming soon...
 
-Documentation: https://www.syncfusion.com/kb/12646/how-to-populate-flutter-datatable-sfdatagrid-with-json-api
+This repository contains a sample that demonstrates how to load the JSON data in Syncfusion® DataGrid package.
 
-## Requirements to run the demo
-* [VS Code](https://code.visualstudio.com/download)
-* [Flutter SDK v2.0.0+](https://flutter.dev/docs/development/tools/sdk/overview)
-* [For more development tools](https://flutter.dev/docs/development/tools/devtools/overview)
 
-## How to run this application
-To run this application, you need to first clone or download the ‘how to load json data to a flutter datagrid’ repository and open it in your preferred IDE. Then, build and run your project to view the output.
+## Syncfusion® controls:
 
-## Further help
-For more help, check the [Syncfusion Flutter documentation](https://help.syncfusion.com/flutter/introduction/overview), or
- [Flutter documentation](https://flutter.dev/docs/get-started/install).
+
+This project used the following Syncfusion® widget(s):
+* [DataGrid](https://www.syncfusion.com/flutter-widgets/flutter-datagrid)
+
+
+## Supported platforms
+
+
+Refer to the following link to know about the supported platform - [Platforms](https://help.syncfusion.com/flutter/system-requirements#supported-platforms)
+
+
+## Requirements to run the sample
+
+
+Refer to the following link to know about system requirements - [System Requirements](https://help.syncfusion.com/flutter/system-requirements)
+
+
+## How to run the sample
+
+
+1. Clone the sample and open it in preferred IDE.
+2. Run the application.
+
+
+*Note: If you download the sample using the "Download ZIP" option, right-click it, select Properties, and then select Unblock.*
+
+
+## License
+
+
+Syncfusion® has no liability for any damage or consequence that may arise by using or viewing the samples. The samples are for demonstrative purposes, and if you choose to use or access the samples, you agree to not hold Syncfusion® liable, in any form, for any damage that is related to use, for accessing, or viewing the samples. By accessing, viewing, or seeing the samples, you acknowledge and agree Syncfusion®’s samples will not allow you seek injunctive relief in any form for any claim related to the sample. If you do not agree to this, do not view, access, utilize, or otherwise do anything with Syncfusion®’s samples.
